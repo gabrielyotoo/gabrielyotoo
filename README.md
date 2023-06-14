@@ -1,16 +1,16 @@
-### Hi there 👋
+# Call me yoto 👋
 
-<!--
-**gabrielyotoo/gabrielyotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on MB Labs
+- 💬 Ask me about React Native and mobile development
+- 😄 Pronouns: ANYONE
+- ⚡ Fun fact: Passionate CS player
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently very engaged with [my blog](https://medium.com/@gabrielyamamoto82)! Please, take a look! I'll love to know what you think of it!
+- Please do check [my published packages in NPM](https://www.npmjs.com/settings/gabrielyotoo/packages) too!
+
+## My socials
+
+- 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/gabriel-freitas-yamamoto/)
+- 🥰 If you'd like to see some pretty pictures of myself, reach me at [Instagram](https://instagram.com/gabrielyotoo)
