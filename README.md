@@ -1,4 +1,4 @@
-# Call me yoto 👋
+# My name is yoto 👋
 
 - 🔭 I’m currently working in MB Labs
 - 💬 Ask me about React, React Native, mobile development and software architecture
