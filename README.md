@@ -1,10 +1,9 @@
-# My name is yoto 👋
+# My name is Gabriel Yamamoto, my friends call me YOTO 👋
 
-- 🔭 I’m currently working in MB Labs
-- 💬 Ask me about React, React Native, mobile development and software architecture
-- 🛡️ In the software security guild!
+- 🔭 I’m currently working in Prime IT
+- 💬 Ask me about React, React Native, Electron, native development and software architecture
 - 😄 Pronouns: ANYONE
-- ⚡ Fun fact: Passionate CS:GO (soon CS2) player
+- ⚡ Fun fact: Passionate CS2 player
 
 What I love the most is to work on old projects so they look fresh new 😎, whether by implementing best code practices or improving their security!
 
@@ -16,5 +15,4 @@ What I love the most is to work on old projects so they look fresh new 😎, whe
 ## My socials
 
 - 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/gabriel-freitas-yamamoto/)
-- 🥰 If you'd like to see some pretty pictures of myself, reach me at [Instagram](https://instagram.com/gabrielyotoo)
 - 🎶 Know someone's [playlist](https://www.deezer.com/br/playlist/11512029184) and you will know who they are
