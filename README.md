@@ -15,4 +15,3 @@ What I love the most is to work on old projects so they look fresh new 😎, whe
 ## My socials
 
 - 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/gabriel-freitas-yamamoto/)
-- 🎶 Know someone's [playlist](https://www.deezer.com/br/playlist/11512029184) and you will know who they are
