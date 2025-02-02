@@ -10,7 +10,7 @@ What I love the most is to work on old projects so they look fresh new 😎, whe
 ## My projects
 
 - I'm currently very engaged with [my blog](https://medium.com/@gabrielyotoo) ([also available in PT-BR 🇧🇷](https://gabrielyamamoto1.medium.com/))! Please, take a look! I'll love to know what you think of it!
-- Please do check [my published packages in NPM](https://www.npmjs.com/settings/gabrielyotoo/packages) too!
+- Please do check [my published packages in NPM](https://www.npmjs.com/~gabrielyotoo) too!
 
 ## My socials
 
